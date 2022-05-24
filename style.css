@@ -1,0 +1,40 @@
+body {
+    background-color: #c9533e;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    border: 1px solid white;
+    height: 530px;
+    width: 350px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.window {
+    width: 250px;
+    height: 390px;
+    background-color: #29467a;
+    outline: 12px solid #2d2623;
+    border-left: 5px solid #439abf;
+    border-right: 5px solid #439abf;
+    position: relative;
+    top: 20px;
+    left: 45px;
+}
+
+.window:before,
+.window:after {
+    content: "";
+    position: absolute;
+}
+
+.window:before {
+    height: 15px;
+    width: 310px;
+}
