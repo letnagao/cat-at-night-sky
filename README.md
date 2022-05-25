@@ -4,8 +4,7 @@ CSS and HTML Animation
 ## Preview 🔥
 
 <p align="center">
-  <video src="https://user-images.githubusercontent.com/99754900/170152283-af55fb34-b0ea-48c3-a4a9-a62e67bff465.mp4" 
-         className="Cat staring the night sky animation" />
+  <video src="https://user-images.githubusercontent.com/99754900/170152283-af55fb34-b0ea-48c3-a4a9-a62e67bff465.mp4" />
 </p>
 
 ## Technologies used 🛠️
