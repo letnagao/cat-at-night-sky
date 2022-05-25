@@ -16,7 +16,7 @@ CSS and HTML Animation
 
 ```bash
 #1. clone this project
-~ git clone https://github.com/letnagao/cat-at-night-sky-animation.git
+~ git clone https://github.com/letnagao/cat-at-night-sky.git
 #2. cd into it
 ~ cd  cat-at-night-sky-animation
 #3. start the project from index.html
