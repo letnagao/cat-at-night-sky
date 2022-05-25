@@ -12,3 +12,6 @@ CSS and HTML Animation
 
 ## Contributing 💡
 Pull request are welcome but please open an issue and discuss what you will do before 😊
+
+## License 📄
+This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
