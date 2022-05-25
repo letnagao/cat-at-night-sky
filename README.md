@@ -10,6 +10,19 @@ CSS and HTML Animation
 ## Technologies used 🛠️
 **Design**: *CSS3 & HTML*<br />
 
+## Usage 📋
+<details open>
+<summary>1. Server Setup</summary>
+
+```bash
+#1. clone this project
+~ git clone https://github.com/letnagao/cat-at-night-sky-animation.git
+#2. cd into it
+~ cd  cat-at-night-sky-animation
+#3. start the project from index.html
+```
+</details>
+
 ## Contributing 💡
 Pull request are welcome but please open an issue and discuss what you will do before 😊
 
