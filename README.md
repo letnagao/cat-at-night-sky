@@ -1,6 +1,14 @@
 ## Cat Staring The Night Sky Animation ✨
 CSS and HTML Animation
 
+![Language count](https://img.shields.io/github/languages/count/letnagao/cat-at-night-sky?color=green)
+![Top language](https://img.shields.io/github/languages/top/letnagao/cat-at-night-sky?color=ff69b4)
+![Repo size](https://img.shields.io/github/repo-size/letnagao/cat-at-night-sky?color=yellow)
+![Commit Activity](https://img.shields.io/github/commit-activity/y/letnagao/cat-at-night-sky?color=blue)
+![Latest commit](https://img.shields.io/github/last-commit/letnagao/cat-at-night-sky?color=red)
+[![GitHub watchers](https://img.shields.io/github/watchers/letnagao/cat-at-night-sky?logo=GitHub)](https://github.com/letnagao/cat-at-night-sky/watchers)
+![Maintained](https://img.shields.io/maintenance/yes/9999)
+
 ## Preview 🔥
 
 <p align="center">
