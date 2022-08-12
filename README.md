@@ -16,7 +16,7 @@ CSS and HTML Animation
 </p>
 
 ## Technologies used 🛠️
-**Design**: *CSS3 & HTML*<br />
+**Design**: *CSS3*<br />
 
 ## Usage 📋
 <details open>
