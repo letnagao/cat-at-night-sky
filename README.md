@@ -9,11 +9,12 @@ CSS and HTML Animation
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/cat-at-night-sky?logo=GitHub)](https://github.com/letnagao/cat-at-night-sky/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
-## Preview 🔥
-
-<p align="center">
-  <video src="https://user-images.githubusercontent.com/99754900/170152283-af55fb34-b0ea-48c3-a4a9-a62e67bff465.mp4" />
-</p>
+</ul><h2> Preview ⚡️</h2>
+<table align="center">
+  <tr>
+    <td><video src="https://user-images.githubusercontent.com/99754900/170152283-af55fb34-b0ea-48c3-a4a9-a62e67bff465.mp4" width=1280 height=800></td>
+  </tr>
+</table>
 
 ## Technologies used 🛠️
 **Design**: *CSS3*<br />
